@@ -29,7 +29,7 @@ To run this project locally, you need:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/dynamicxd/food-order-management-system.git
+   git clone https://github.com/DynamicXD/food-order-management-system.git
    cd food-order-management-system
    ```
 2. Run the application:
